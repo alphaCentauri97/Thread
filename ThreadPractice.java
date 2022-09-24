@@ -11,7 +11,7 @@ public class ThreadPractice extends Thread {
         ThreadPractice th = new ThreadPractice();
 //        t.start();
 //        th.start();
-        t.setName("Satyam");
+        t.setName("Saurabh");
         th.setName("Akash");
         t.start();
         th.start();
